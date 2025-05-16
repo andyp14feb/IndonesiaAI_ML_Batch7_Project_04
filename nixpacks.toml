@@ -1,0 +1,8 @@
+[phases.setup]
+nixPkgs = ['python311', 'pipenv'] # or 'python39' if you're using 3.9
+
+[phases.install]
+cmds = ["pip install -r ./app/requirements.txt"]
+
+[start]
+cmd = "python ./app/app.py"
