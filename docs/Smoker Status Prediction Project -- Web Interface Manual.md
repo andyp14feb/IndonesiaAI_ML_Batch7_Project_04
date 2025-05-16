@@ -4,7 +4,7 @@ This web application allows users to **predict smoking status** (Smoker or Non-S
 
 ---
 
-![Form Layout](D:\__DOWNLOADS\_AIForINDONESIA\Codes\git\learnWithAIforIndonesia\FinalProject\Documentation\2025-05-15_202815_001__DokumentasiUntukManual.jpg)
+![Form Layout](https://github.com/andyp14feb/IndonesiaAI_ML_Batch7_Project_04/blob/main/docs/2025-05-15_202815_001__DokumentasiUntukManual.jpg)
 
 ## Table of Contents
 
