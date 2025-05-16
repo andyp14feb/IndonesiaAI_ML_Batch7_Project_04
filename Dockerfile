@@ -11,7 +11,7 @@ COPY . /app
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Set environment variables
-ENV FLASK_APP=app.py:app
+ENV FLASK_APP=app:app
 ENV FLASK_RUN_HOST=0.0.0.0
 
 # Expose port for Railway
