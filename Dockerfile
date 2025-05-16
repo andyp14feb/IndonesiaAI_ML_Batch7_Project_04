@@ -19,4 +19,4 @@ ENV FLASK_RUN_PORT=8000
 EXPOSE 8000
 
 # Start the Flask server
-CMD ["sh", "-c", "flask run --port=$PORT"]
+CMD ["sh", "-c", "flask run --host=0.0.0.0 --port=$PORT"]
