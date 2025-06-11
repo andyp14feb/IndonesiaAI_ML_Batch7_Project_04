@@ -125,7 +125,7 @@ Enjoy predicting — and feel free to fork, extend, or swap in your own models!
 # Smoker Status Prediction — Web Interface Manual
 
 This web application allows users to **predict smoking status** (Smoker or Non-Smoker) based on biometric and clinical data input. The prediction is powered by machine learning models trained on health datasets.
-
+You can visit the online [demo](https://smokerstatus-production-928f.up.railway.app) for a quick review.
 ---
 
 ![Form Layout](https://github.com/andyp14feb/IndonesiaAI_ML_Batch7_Project_04/blob/main/docs/2025-05-15_202815_001__DokumentasiUntukManual.jpg)
